@@ -1,3 +1,4 @@
+![logo](https://github.com/sayantanmukherjee-sketch/sayantanmukherjee-sketch/blob/main/file_000000001c208211b3d88ba651e362ee.png)
 <h1 align="center">Hi 👋, I'm Sayantan Mukherjee</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
